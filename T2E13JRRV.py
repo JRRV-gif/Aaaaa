@@ -1,5 +1,9 @@
 import random
 
+
+print("Prueba de primer cambio")
+
+
 nums = []
 for i in range (0,5):
     x = int(input("Inserte un número del 1 al 25: "))
